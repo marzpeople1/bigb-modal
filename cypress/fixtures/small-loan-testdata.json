@@ -1,0 +1,8 @@
+{
+  "minPeriod": 6,
+  "maxPeriod": 120,
+  "defaultPeriod": 60,
+  "minAmount": 500,
+  "maxAmount": 30000,
+  "defaultAmount": 5000
+}

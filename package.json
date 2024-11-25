@@ -1,0 +1,11 @@
+{
+  "name": "cypress_project",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  },
+  "scripts": {
+    "cy:ui": "cypress run --no-exit --headed --spec cypress/e2e/ui-modal.cy.js",
+    "cy:api": "cypress run --no-exit --headed --spec cypress/e2e/api-calculation.cy.js"
+  }
+}

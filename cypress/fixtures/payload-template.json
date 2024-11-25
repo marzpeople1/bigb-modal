@@ -1,0 +1,10 @@
+{
+  "currency": "EUR",
+  "productType": "SMALL_LOAN_EE01",
+  "maturity": 60,
+  "administrationFee": 3.99,
+  "conclusionFee": 45,
+  "amount": 5000,
+  "monthlyPaymentDay": 15,
+  "interestRate": 16.8
+}
